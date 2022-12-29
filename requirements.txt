@@ -1,4 +1,4 @@
-boto3 <= 1.18.18
+
 onnxruntime == 1.6.0
 sentencepiece ==0.1.96
 torch == 1.8.1
